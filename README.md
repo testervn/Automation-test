@@ -31,7 +31,7 @@ The UI automation project is provided as a **ZIP** file which already includes:
      - If the project already exists in workspace, just open it.
      - Otherwise: `File` → `Import` → `Existing Projects into Workspace`
 
-### A short video demonstrating the test execution:
+### A short video demonstrating the test execution: https://youtu.be/a_rexC8eHRg?si=dLx-uR7V4EnZQIS6
 [![Video Title](https://i9.ytimg.com/vi/a_rexC8eHRg/mqdefault.jpg?sqp=COz3wMoG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGE8gXChlMA8%3D&rs=AOn4CLA9qVApl1rsZmSXVO_cfQ_wdzLUQA&retry=5)](https://www.youtube.com/watch?v=a_rexC8eHRg)
 ---
 
@@ -67,7 +67,7 @@ Run this file as **TestNG Test**:
 3. Click **Start** (green play button) to run the test plan
 4. View results in the configured listeners inside the test plan (e.g., Summary Report / View Results Tree, if enabled)
 
-### A short video demonstrating the test execution:
+### A short video demonstrating the test execution: https://youtu.be/WeGWL1lH9BI?si=EIshvRYJaGQcEn94
 [![Video Title](https://i9.ytimg.com/vi/WeGWL1lH9BI/mqdefault.jpg?sqp=COz3wMoG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEogWyhlMA8=&rs=AOn4CLDZizAphSW9dJXoWQR6umsBe2Mnow)](https://www.youtube.com/watch?v=WeGWL1lH9BI)
 ---
 
